@@ -1,4 +1,4 @@
-# My Personal Project
+# Vending Machine
 
 ## Overview
 
